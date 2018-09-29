@@ -1,0 +1,10 @@
+com\mixail\ConsoleHelper.class
+com\mixail\model\User.class
+com\mixail\Server$1.class
+com\mixail\Server.class
+com\mixail\model\TypeOfUser.class
+com\mixail\Server$ServerHandler.class
+com\mixail\MessageType.class
+com\mixail\Сonstants.class
+com\mixail\Connection.class
+com\mixail\Message.class
