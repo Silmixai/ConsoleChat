@@ -5,9 +5,8 @@ import org.apache.log4j.Logger;
 import java.io.IOException;
 import java.net.Socket;
 
-import static com.mixail.Сonstants.EXIT;
-import static com.mixail.Сonstants.IP;
-import static com.mixail.Сonstants.PORT;
+
+import static com.mixail.model.Constans.*;
 
 
 public class Client {

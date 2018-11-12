@@ -1,6 +1,6 @@
-package com.mixail;
+package com.mixail.model;
 
-public interface Сonstants {
+public interface Constans {
     int PORT = 6005;
     int POOL_SIZE = 20;
     int ARRAY_SIZE = 20;
@@ -13,5 +13,4 @@ public interface Сonstants {
     String LEAVE = "/leave";
     String CLIENT_TYPE = "client";
     String AGENT_TYPE = "agent";
-
 }

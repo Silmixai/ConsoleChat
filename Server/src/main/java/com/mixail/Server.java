@@ -10,7 +10,9 @@ import java.net.Socket;
 import java.util.Map;
 import java.util.concurrent.*;
 
-import static com.mixail.Сonstants.*;
+import static com.mixail.model.Constans.*;
+
+
 
 public class Server {
 
